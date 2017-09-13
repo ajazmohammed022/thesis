@@ -1,1 +1,4 @@
 # thesis
+#FIRST CHANGE TO MY FILE
+#GONNA PRINT MY NAME
+echo "ajaz";
